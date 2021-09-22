@@ -1,0 +1,7 @@
+# Default ignored files
+/out/
+/request/target/
+/response/target/
+/servlet-01/target/
+/servlet-02/target/
+
