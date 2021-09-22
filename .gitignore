@@ -1,7 +1,9 @@
 # Default ignored files
-/out/
-/request/target/
-/response/target/
-/servlet-01/target/
-/servlet-02/target/
+/maven/target/
+/servlet/out/
+/servlet/request/target/
+/servlet/response/target/
+/servlet/servlet-01/target/
+/servlet/servlet-02/target/
+/session-cookie/target/
 
