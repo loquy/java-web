@@ -9,15 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="795c557b-4c9d-404b-b9c8-1cfb31a50b1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jsp/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsp/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsp/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsp/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsp/src/main/java/com/pojo/people.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsp/web/javabean.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="795c557b-4c9d-404b-b9c8-1cfb31a50b1c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,19 +54,6 @@
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.71" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/maven_war/" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -176,6 +155,7 @@
       <workItem from="1632327700275" duration="1682000" />
       <workItem from="1632366706603" duration="26000" />
       <workItem from="1632383104552" duration="45000" />
+      <workItem from="1632390549217" duration="22000" />
     </task>
     <servers />
   </component>
