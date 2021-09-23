@@ -7,4 +7,6 @@
 /servlet/servlet-02/target/
 /session-cookie/target/
 /jsp/out/
-
+/jsp/target/
+/filter/out/
+/filter/target/

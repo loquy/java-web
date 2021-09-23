@@ -10,14 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="795c557b-4c9d-404b-b9c8-1cfb31a50b1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/session-cookie/src/main/java/com/pojo/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session-cookie/src/main/java/com/servlet/SessionDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session-cookie/src/main/java/com/servlet/SessionDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session-cookie/src/main/java/com/servlet/SessionDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session-cookie/src/main/webapp/hello.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session-cookie/src/main/java/com/servlet/CookieDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/session-cookie/src/main/java/com/servlet/CookieDemo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session-cookie/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session-cookie/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsp/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsp/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsp/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsp/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsp/src/main/java/com/pojo/people.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsp/web/javabean.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +62,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -174,6 +175,7 @@
       <workItem from="1632028637485" duration="1557000" />
       <workItem from="1632327700275" duration="1682000" />
       <workItem from="1632366706603" duration="26000" />
+      <workItem from="1632383104552" duration="45000" />
     </task>
     <servers />
   </component>
