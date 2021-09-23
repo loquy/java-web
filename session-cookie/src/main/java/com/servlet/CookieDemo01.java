@@ -14,7 +14,7 @@ public class CookieDemo01 extends HttpServlet {
         // 解决中文乱码
         req.setCharacterEncoding("UTF-8");
         resp.setCharacterEncoding("UTF-8");
-        resp.setHeader("Content-type", "text/html;charset=UTF-8");
+        resp.setHeader("Content-Type", "text/html;charset=UTF-8");
 
         PrintWriter out = resp.getWriter();
 
