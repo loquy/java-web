@@ -55,7 +55,7 @@ public class BaseDao {
      *
      * @return ResultSet
      */
-    public static ResultSet execute(Connection connection, String sql, Object[] params, ResultSet resultSet, PreparedStatement preparedStatement) throws SQLException {
+    public static ResultSet execute(Connection connection, PreparedStatement preparedStatement, String sql, Object[] params, ResultSet resultSet) throws SQLException {
         preparedStatement = connection.prepareStatement(sql);
         for (int i = 0; i < params.length; i++) {
             // 占位符从1开始
@@ -70,10 +70,10 @@ public class BaseDao {
      *
      * @return int
      */
-    public static int execute(Connection connection, String sql, Object[] params, PreparedStatement preparedStatement) throws SQLException {
+    public static int execute(Connection connection,PreparedStatement preparedStatement, String sql, Object[] params) throws SQLException {
         preparedStatement = connection.prepareStatement(sql);
 
-        for (int i = 1; i < params.length; i++) {
+        for (int i = 0; i < params.length; i++) {
             // 占位符从1开始
             preparedStatement.setObject(i + 1, params[i]);
         }
