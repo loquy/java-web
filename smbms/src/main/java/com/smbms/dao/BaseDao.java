@@ -55,7 +55,7 @@ public class BaseDao {
      *
      * @return ResultSet
      */
-    public static ResultSet execute(Connection connection, PreparedStatement preparedStatement, String sql, Object[] params, ResultSet resultSet) throws SQLException {
+    public static ResultSet execute(Connection connection, PreparedStatement preparedStatement, ResultSet resultSet, String sql, Object[] params) throws SQLException {
         preparedStatement = connection.prepareStatement(sql);
         for (int i = 0; i < params.length; i++) {
             // 占位符从1开始
@@ -87,7 +87,7 @@ public class BaseDao {
      *
      * @return boolean
      */
-    public static boolean closeResources(Connection connection, PreparedStatement preparedStatement, ResultSet resultSet) {
+    public static boolean closeResource(Connection connection, PreparedStatement preparedStatement, ResultSet resultSet) {
         boolean flag = true;
 
         if (resultSet != null) {
