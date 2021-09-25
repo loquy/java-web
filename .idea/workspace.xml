@@ -9,7 +9,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="795c557b-4c9d-404b-b9c8-1cfb31a50b1c" name="Default Changelist" comment="" />
+    <list default="true" id="795c557b-4c9d-404b-b9c8-1cfb31a50b1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/file/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/.idea/artifacts/file_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/.idea/file.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/file.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +56,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/smbms" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -54,6 +68,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.71" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/maven_war/" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -157,6 +182,11 @@
       <workItem from="1632383104552" duration="45000" />
       <workItem from="1632390549217" duration="22000" />
       <workItem from="1632447897330" duration="44000" />
+      <workItem from="1632545609236" duration="483000" />
+      <workItem from="1632554582832" duration="5000" />
+      <workItem from="1632554819005" duration="22000" />
+      <workItem from="1632556904844" duration="33000" />
+      <workItem from="1632557351903" duration="86000" />
     </task>
     <servers />
   </component>

@@ -13,3 +13,7 @@
 /jdbc/out/
 /jdbc/target/
 /smbms/target/
+/file/target/
+/file/out/
+/mail/target/
+/mail/out/

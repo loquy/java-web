@@ -1,0 +1,10 @@
+<web-app>
+    <servlet>
+        <servlet-name>fileServlet</servlet-name>
+        <servlet-class>com.servlet.fileServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>fileServlet</servlet-name>
+        <url-pattern>/upload.do</url-pattern>
+    </servlet-mapping>
+</web-app>
